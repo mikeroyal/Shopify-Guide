@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/120384216-b7f6dc80-c2da-11eb-9edd-905f37a4e8a6.png">
   <br />
   Shopify Guide
 </h1>
@@ -21,6 +21,11 @@
 5. [Python Development](https://github.com/mikeroyal/Shopify-Guide#python-development)
 
 6. [GraphQL Development](https://github.com/mikeroyal/Shopify-Guide#graphql-development)
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/120384217-b88f7300-c2da-11eb-9463-d93d72b453fb.png">
+  <br />
+</p>
 
 # Shopify Learning Resources
 [Back to the Top](https://github.com/mikeroyal/Shopify-Guide#table-of-contents)
@@ -160,7 +165,7 @@
 # Node.js Development
 [Back to the Top](https://github.com/mikeroyal/Shopify-Guide#table-of-contents)
 
-<palign="center">
+<p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/93719688-0becd700-fb39-11ea-9b87-3d52f1828aee.png">
   <br />
 </p>
@@ -365,7 +370,7 @@
 [Back to the Top](https://github.com/mikeroyal/Shopify-Guide#table-of-contents)
 
 <p align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/120385258-0ce72280-c2dc-11eb-9599-8ac70ec92ab2.png">
   <br />
   
 </p>
