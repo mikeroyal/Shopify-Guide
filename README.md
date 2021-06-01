@@ -16,7 +16,7 @@
 
 3. [Ruby Development](https://github.com/mikeroyal/Shopify-Guide#ruby-development)
 
-4. [Node.js Development](https://github.com/mikeroyal/Shopify-Guide#node.js-development)
+4. [Node.js Development](https://github.com/mikeroyal/Shopify-Guide#nodejs-development)
 
 5. [Python Development](https://github.com/mikeroyal/Shopify-Guide#python-development)
 
