@@ -56,6 +56,21 @@
 
 [Online Shopify Classes on Skillshare](https://www.skillshare.com/browse/shopify)
 
+**Migrating to Shopify Plus**
+
+[Getting Started with Migrating to Shopify Plus](https://help.shopify.com/en/manual/migrating-to-shopify/getting-started)
+
+[Migrate your app from legacy SDKs to Shopify App Bridge](https://shopify.dev/tutorials/migrate-your-app-from-legacy-sdks-to-shopify-app-bridge)
+
+[Getting started with Shopify App Bridge](https://shopify.dev/tools/app-bridge/getting-started)
+
+[Shopify Plus Transporter App](https://github.com/Shopify/shopify_transporter) is a tool that is only available for Shopify Plus customers, and can greatly assist you in importing your products, customers, order data via CSV files. The capability is divided into 2 parts. A command-line tool to extract your data, the other is to import it into Shopify Plus. The command-line tool for the extraction supports multiple platforms for a friendly CSV format to import into Shopify Plus.
+
+The Shopify Plus Transporter App is then found in Shopify Plus to take in the CSV files and is available in the [Shopify App Store](https://apps.shopify.com/transporter). Shopify Plus enables additional API capabilities over a regular Shopify Store. It gives you capabilities in Discount API, Giftcard API, Multipass API and gives you an increase in API call limits. All of which is crucial to plan for in migration since you might have these features enabled in your platform. Also, with CSV files the average rate limit of Shopify’s API is roughly two records per second. Thus, the large datasets can take even days or weeks depending upon the data to import into Shopify via the API.
+
+**Important Note:** Save your site’s current position in the search system (SEO) and set up redirection of users to a new address when migrating to the Shopify Plus platform. With the correct setting of the redirect, you will save the authority of your domain name and your current ranking position in the search engines (such as Google).
+
+
 
 # Shopify Tools
 [Back to the Top](https://github.com/mikeroyal/Shopify-Guide#table-of-contents)
